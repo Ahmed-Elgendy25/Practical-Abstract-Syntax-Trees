@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Ahmed-Elgendy25/Practical-Abstract-Syntax-Trees#readme",
   "dependencies": {
-    "@babel/parser": "^7.28.5"
+    "@babel/parser": "^7.28.5",
+    "@babel/traverse": "^7.28.5"
   }
 }
