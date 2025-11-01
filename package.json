@@ -1,0 +1,23 @@
+{
+  "name": "practical-abstract-syntax-trees",
+  "version": "1.0.0",
+  "description": "This repoistory includes practical examples and code for AST using babel.js ( including plugins).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmed-Elgendy25/Practical-Abstract-Syntax-Trees.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmed-Elgendy25/Practical-Abstract-Syntax-Trees/issues"
+  },
+  "homepage": "https://github.com/Ahmed-Elgendy25/Practical-Abstract-Syntax-Trees#readme",
+  "dependencies": {
+    "@babel/parser": "^7.28.5"
+  }
+}
